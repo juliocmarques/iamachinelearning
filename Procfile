@@ -1,0 +1,1 @@
+web: gunicorn dados_tratados:app
